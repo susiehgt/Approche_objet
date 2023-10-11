@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-Class Choux extends Gateaux
+class Choux extends Gateaux
 {
     String Fourrage;
     Bool Chantilly;

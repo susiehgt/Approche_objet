@@ -1,11 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-Class Gateaux
+public abstract class Gateaux
 {
     String Type;
-    String Fourrage;
-    Bool Chantilly;
-    Bool Noisettes;
-    Bool Amandes;
 }

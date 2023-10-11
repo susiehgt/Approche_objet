@@ -1,4 +1,4 @@
-Class Tarte extends Gateaux
+class Tarte extends Gateaux
 {
     String Fruit;
     Bool Meringue;

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-Class Patissier
+class Patissier
 {
     String Nom;
 

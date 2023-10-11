@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-Class Ingredients
+class Ingredients
 {
     String Nom;
 }

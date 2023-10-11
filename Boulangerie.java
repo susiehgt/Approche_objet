@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-Class Boulangerie
+class Boulangerie
 {
     public static void main (String []args) 
     {
